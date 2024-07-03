@@ -1,0 +1,115 @@
+2024.07.03 08:59:24 INFO  Started: Metals version 1.3.2 in folders 'C:\Users\user\AppData\Local\Temp\hello-world' for client Visual Studio Code 1.90.0.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@4d529069]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@3ce067ba]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@4d529069]
+2024.07.03 08:59:25 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.03 08:59:43 INFO  no build target found for C:\Users\user\AppData\Local\Temp\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.03 08:59:47 INFO  no build target found for C:\Users\user\AppData\Local\Temp\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.03 08:59:47 INFO  no build target found for C:\Users\user\AppData\Local\Temp\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.03 08:59:47 WARN  Could not find semantic tokens for: file:///C:/Users/user/AppData/Local/Temp/hello-world/build.sbt
+2024.07.03 08:59:47 INFO  no build target found for C:\Users\user\AppData\Local\Temp\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.03 09:05:39 INFO  no build target found for C:\Users\user\AppData\Local\Temp\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.03 09:07:15 INFO  no build target found for C:\Users\user\AppData\Local\Temp\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.03 09:07:15 WARN  Could not find semantic tokens for: file:///C:/Users/user/AppData/Local/Temp/hello-world/build.sbt
+2024.07.03 09:07:23 INFO  no build target found for C:\Users\user\AppData\Local\Temp\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.03 09:07:23 INFO  no build target found for C:\Users\user\AppData\Local\Temp\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.03 09:07:23 WARN  no build target for: C:\Users\user\AppData\Local\Temp\hello-world\build.sbt
+2024.07.03 09:07:23 INFO  no build target found for C:\Users\user\AppData\Local\Temp\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.03 09:07:23 INFO  no build target found for C:\Users\user\AppData\Local\Temp\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.03 09:08:08 INFO  Shutting down server
+2024.07.03 09:08:08 INFO  shutting down Metals
+2024.07.03 09:08:08 INFO  Exiting server
+2024.07.03 09:08:25 INFO  Started: Metals version 1.3.2 in folders 'C:\Users\user\AppData\Local\Temp\hello-world' for client Visual Studio Code 1.90.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@4784d750]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@70710c8e]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@4784d750]
+2024.07.03 09:08:26 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.03 09:08:28 INFO  no build target found for C:\Users\user\AppData\Local\Temp\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.03 09:08:38 INFO  running 'C:\Program Files\Java\jdk1.8.0_172\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\user\AppData\Local\Temp\metals14538214166202204291\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.07.03 09:08:38 ERROR [info] [launcher] getting org.scala-sbt sbt 1.5.5  (this may take some time)...
+2024.07.03 09:08:44 ERROR [info] [launcher] getting Scala 2.12.14 (for sbt)...
+2024.07.03 09:08:46 INFO  [info] welcome to sbt 1.5.5 (Oracle Corporation Java 1.8.0_172)
+2024.07.03 09:08:49 INFO  [info] loading settings for project hello-world-build-build from metals.sbt ...
+2024.07.03 09:08:49 INFO  [info] loading project definition from C:\Users\user\AppData\Local\Temp\hello-world\project\project
+2024.07.03 09:08:52 INFO  [info] loading settings for project hello-world-build from metals.sbt ...
+2024.07.03 09:08:52 INFO  [info] loading project definition from C:\Users\user\AppData\Local\Temp\hello-world\project
+2024.07.03 09:08:55 INFO  no build target found for C:\Users\user\AppData\Local\Temp\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.03 09:08:56 INFO  [success] Generated .bloop\hello-world-build.json
+2024.07.03 09:08:56 INFO  [success] Total time: 4 s, completed 3 juil. 2024 09:08:56
+2024.07.03 09:08:57 INFO  [info] loading settings for project root from build.sbt ...
+2024.07.03 09:08:57 INFO  [info] set current project to functional-graphs (in build file:/C:/Users/user/AppData/Local/Temp/hello-world/)
+2024.07.03 09:09:00 INFO  [success] Generated .bloop\root-test.json
+2024.07.03 09:09:00 INFO  [success] Generated .bloop\root.json
+2024.07.03 09:09:00 INFO  [success] Generated .bloop\core.json
+2024.07.03 09:09:00 INFO  [success] Generated .bloop\core-test.json
+2024.07.03 09:09:00 INFO  [success] Generated .bloop\app.json
+2024.07.03 09:09:00 INFO  [success] Generated .bloop\app-test.json
+2024.07.03 09:09:00 INFO  [success] Total time: 4 s, completed 3 juil. 2024 09:09:01
+2024.07.03 09:09:01 INFO  time: ran 'sbt bloopInstall' in 23s
+2024.07.03 09:09:01 INFO  Attempting to connect to the build server...
+2024.07.03 09:09:01 INFO  Setting up current java home C:\Users\user\AppData\Local\Coursier\cache\arc\https\github.com\adoptium\temurin17-binaries\releases\download\jdk-17%252B35\OpenJDK17-jdk_x64_windows_hotspot_17_35.zip\jdk-17+35 in C:\Users\user\.bloop\bloop.json
+2024.07.03 09:09:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\user\AppData\Local\Temp\hello-world\.metals\bsp.trace.json or C:\Users\user\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.03 09:09:18 INFO  Attempting to connect to the build server...
+2024.07.03 09:09:18 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\user\AppData\Local\Temp\hello-world\project\.metals\bsp.trace.json or C:\Users\user\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.03 09:09:18 INFO  time: Connected to build server in 16s
+2024.07.03 09:09:18 INFO  Connected to Build server: Bloop v1.5.18
+2024.07.03 09:09:19 INFO  time: Imported build in 0.14s
+2024.07.03 09:09:21 WARN  3.0.2 is no longer supported in the current Metals versions, using the last known supported version 0.11.12
+2024.07.03 09:09:43 INFO  time: indexed workspace in 24s
+2024.07.03 09:09:46 INFO  time: code lens generation in 2.07s
+2024.07.03 09:09:46 INFO  time: code lens generation in 2.67s
+2024.07.03 09:09:46 INFO  time: code lens generation in 2.67s
+2024.07.03 09:09:46 INFO  time: code lens generation in 2.67s
+2024.07.03 09:11:50 INFO  Shutting down server
+2024.07.03 09:11:50 INFO  shutting down Metals
+2024.07.03 09:11:50 INFO  Shut down connection with build server.
+2024.07.03 09:11:50 INFO  Shut down connection with build server.
+2024.07.03 09:11:50 INFO  Exiting server
+2024.07.03 09:12:34 INFO  Started: Metals version 1.3.2 in folders 'C:\Users\user\AppData\Local\Temp\hello-world' for client Visual Studio Code 1.90.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@794e72f8]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@73927891]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@794e72f8]
+2024.07.03 09:12:34 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.03 09:12:35 INFO  no build target found for C:\Users\user\AppData\Local\Temp\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.03 09:12:35 INFO  Attempting to connect to the build server...
+2024.07.03 09:12:35 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\user\AppData\Local\Temp\hello-world\.metals\bsp.trace.json or C:\Users\user\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.03 09:12:36 INFO  Attempting to connect to the build server...
+2024.07.03 09:12:36 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\user\AppData\Local\Temp\hello-world\project\.metals\bsp.trace.json or C:\Users\user\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.03 09:12:36 INFO  time: Connected to build server in 0.64s
+2024.07.03 09:12:36 INFO  Connected to Build server: Bloop v1.5.18
+2024.07.03 09:12:36 INFO  time: Imported build in 0.2s
+2024.07.03 09:12:37 WARN  3.0.2 is no longer supported in the current Metals versions, using the last known supported version 0.11.12
+2024.07.03 09:12:43 INFO  time: indexed workspace in 7.06s
+2024.07.03 09:14:45 INFO  Shutting down server
+2024.07.03 09:14:45 INFO  shutting down Metals
+2024.07.03 09:14:45 INFO  Shut down connection with build server.
+2024.07.03 09:14:45 INFO  Shut down connection with build server.
+2024.07.03 09:14:45 INFO  Exiting server
+2024.07.03 09:15:29 INFO  Started: Metals version 1.3.2 in folders 'C:\Users\user\AppData\Local\Temp\hello-world' for client Visual Studio Code 1.90.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@794e72f8]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@73927891]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@794e72f8]
+2024.07.03 09:15:29 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.03 09:15:30 INFO  no build target found for C:\Users\user\AppData\Local\Temp\hello-world\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.03 09:15:30 INFO  Attempting to connect to the build server...
+2024.07.03 09:15:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\user\AppData\Local\Temp\hello-world\.metals\bsp.trace.json or C:\Users\user\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.03 09:15:30 INFO  Attempting to connect to the build server...
+2024.07.03 09:15:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\user\AppData\Local\Temp\hello-world\project\.metals\bsp.trace.json or C:\Users\user\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.03 09:15:30 INFO  time: Connected to build server in 1.01s
+2024.07.03 09:15:30 INFO  Connected to Build server: Bloop v1.5.18
+2024.07.03 09:15:31 INFO  time: Imported build in 0.18s
+2024.07.03 09:15:32 WARN  3.0.2 is no longer supported in the current Metals versions, using the last known supported version 0.11.12
+2024.07.03 09:15:38 INFO  time: indexed workspace in 6.61s
+2024.07.03 09:16:48 INFO  Shutting down server
+2024.07.03 09:16:48 INFO  shutting down Metals
+2024.07.03 09:16:48 INFO  Shut down connection with build server.
+2024.07.03 09:16:48 INFO  Shut down connection with build server.
+2024.07.03 09:16:48 INFO  Exiting server

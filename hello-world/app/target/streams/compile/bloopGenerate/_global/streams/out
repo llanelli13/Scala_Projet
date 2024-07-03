@@ -1,0 +1,4 @@
+[debug] [app] Classpath dependencies List(core)
+[debug] [app] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'app' to 'C:\Users\user\AppData\Local\Temp\hello-world\.bloop\app.json'
+[success] Generated .bloop\app.json
